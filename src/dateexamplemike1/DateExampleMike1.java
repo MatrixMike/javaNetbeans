@@ -12,7 +12,6 @@ package dateexamplemike1;
  */
 public class DateExampleMike1 {
 
-
     /**
      * @param args the command line arguments
      */
@@ -24,7 +23,6 @@ public class DateExampleMike1 {
 
 }
 /*  class void test1(int i){
-        }
+ }
   
-  */
-    
+ */
